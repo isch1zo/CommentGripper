@@ -1,6 +1,5 @@
 import sys
 import requests
-import argparse
 import re
 import optparse
 import colorama
